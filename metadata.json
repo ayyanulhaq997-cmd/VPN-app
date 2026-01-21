@@ -1,0 +1,7 @@
+{
+  "name": "Jutt VPN Pro Dashboard",
+  "description": "A high-performance VPN management dashboard for Jutt VPN featuring real-time connection monitoring, server switching, bandwidth analytics, and an AI-powered security advisor.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
